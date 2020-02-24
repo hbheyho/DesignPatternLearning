@@ -1,2 +1,5 @@
 # Default ignored files
 /workspace.xml
+/target/
+src/main/java/com/hb/design/synchronize/
+.gitignore
